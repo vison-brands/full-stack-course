@@ -18,11 +18,11 @@ You will be prompted to choose a passphrase. You also have the option not to cre
 
 Optional: To navigate to the .ssh directory, and check the contents of the directory, run the following commands in the terminal:
 
-cd ~/.ssh
+| cd ~/.ssh
 
 and then,
 
-ls
+| ls
 
 When you list the contents of the .ssh directory, you should see id_rsa and id_rsa.pub in the list of contents, where id_rsa is the private version of your key and id_rsa.pub is the public version of your key.
 
